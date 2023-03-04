@@ -6,7 +6,8 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   
-  <dependencies>
+ 
+	<dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
